@@ -1,8 +1,11 @@
+<?php
+header('HTTP/1.1 503 Service Temporarily Unavailable');
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Sticky footer &middot; Twitter Bootstrap</title>
+    <title>Maintenance</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -89,6 +92,8 @@
           <h1>Maintenance</h1>
         </div>
         <p class="lead">Highly trained monkeys have been dispatched to perform some maintenance works. We will be back soon. Thank you for your patience.</p>
+
+        <p class="lead">고도로 훈련된 원숭이들이 웹사이트 유지 보수를 위해 출동했습니다. 곧 돌아올 예정이니 조금만 기다려주세요.</p>
       </div>
 
       <div id="push"></div>
