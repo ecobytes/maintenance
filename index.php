@@ -101,7 +101,7 @@ header('HTTP/1.1 503 Service Temporarily Unavailable');
 
     <div id="footer">
       <div class="container">
-        <p class="muted credit">&copy; 2013 <a href="http://labs.suminb.com">Sumin's Labs</a></p>
+        <p class="muted credit">CC 2016 <a href="http://ecobytes.net">Ecobytes e.V.</a></p>
       </div>
     </div>
 
